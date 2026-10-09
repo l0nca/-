@@ -1,0 +1,35 @@
+head,body, ul, li {padding:0;margin:0;}
+
+/* Общее */
+
+body
+{
+background:url(../img/cardbox/cardboard.jpg) repeat left top;
+font-family:Arial, Helvetica, sans-serif;
+color:#333;
+}
+
+a {color:#000; text-decoration:none; }
+img {border:0;}
+h1,h2,h3,h4,h5,h6 {text-shadow: 0px 0px 0px #000; color:#000;} 
+
+li { font-size:95%; line-height: 1; padding:0 0 10px 0}
+
+/* Страница списка */
+
+.letter {font-size:150%; font-weight: bold; padding: 5px 0;} /* Буквы быстрого перехода */
+
+.T_M {
+border-collapse: collapse;
+width: 100%;
+}
+
+.T_M .letter {font-size:150%; font-weight: bold; padding: 5px 0; color:#000;} /* Буква */
+
+.T_M TR:hover {background-color: #690; color: #ffffff;}
+.T_M TR.none:hover {background-color: transparent; color: #000;}
+
+.T_M TBODY TH {font-size:90%; padding:5px; border:1px solid #000;} /* Рамка для тэга TH */
+.T_M TBODY TD {font-size:90%; padding:5px; border:1px solid #000;} /* Рамка для тэга TD */
+
+ 
