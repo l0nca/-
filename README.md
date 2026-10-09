@@ -1,5 +1,5 @@
 Zamolot cheatsheet for everyday use
-click the ling below and enjoy your meal !
+click the link below and enjoy your meal !
 
 
 
